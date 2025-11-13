@@ -52,7 +52,7 @@ Analyzed **tcpdump packet captures**, detected suspicious RDP traffic on port 33
 
 ---
 
-## 📜 Certifications
+## 📜 Certification
 - CompTIA Security+ (SY0-701)
 
 ---
@@ -67,6 +67,6 @@ Analyzed **tcpdump packet captures**, detected suspicious RDP traffic on port 33
 
  📫 Connect With Me
 Email: kodefole@gmail.com  
-LinkedIn: *(drop your link here)
+LinkedIn: www.linkedin.com/in/kyle-olivier-efole
 
 Thanks for stopping by! Always open to opportunities, mentorship, and collaboration in cybersecurity.
