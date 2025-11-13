@@ -1,5 +1,5 @@
 My name is Kyle Efole & 
-I’m an aspiring Cybersecurity professional looking to acquire an entry-level Security Analyst position. I have hands-on experience in **incident response, memory forensics, malware analysis, threat hunting, and IDS rule engineering.  
+I’m an aspiring Cybersecurity professional looking to acquire an entry-level Security Analyst position. I have hands-on experience in incident response, memory forensics, malware analysis, threat hunting, and IDS rule engineering.  
 
 
 ---
